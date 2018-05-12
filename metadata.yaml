@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5064'
     url: http://www.gutenberg.org/2009/agents/5064
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13469#A-History-of-Pantomime
 gutenberg_issued: '2004-09-15'
 gutenberg_type: Text
 identifiers:
